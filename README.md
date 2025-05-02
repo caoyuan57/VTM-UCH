@@ -1,11 +1,11 @@
-# VTMUCH
+# VTM-UCH
 
 This is the repo for the 2025 AAAI conference paper "Vision-guided Text Mining for Unsupervised Cross-modal Hashing with Community Similarity Quantization". 
 
-The following is the pipeline of VTMUCH:
+The following is the pipeline of VTM-UCH:
 ![alt text](https://github.com/louisfanhz/VTMUCH/blob/main/figs/VTMUCH_framework.jpg?raw=true)
 
-Experimental result of VTMUCH:
+Experimental result of VTM-UCH:
 ![alt text](https://github.com/louisfanhz/VTMUCH/blob/main/figs/VTMUCH_exp_results.jpg?raw=true)
 
 
@@ -19,7 +19,7 @@ conda env create --file=environment.yaml
 
 ## Setup
 
-1. The datasets used in VTMUCH follow official releases of FLICKR25K and NUWIDE. You can also download the datsets manually with the following links:
+1. The datasets used in VTM-UCH follow official releases of FLICKR25K and NUWIDE. You can also download the datsets manually with the following links:
    
     FLICKR25K: https://drive.google.com/drive/folders/16_n_afpLz2q9R_BTL_FAJaZF5sjTnI5a?usp=sharing
    
